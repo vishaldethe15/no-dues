@@ -1,0 +1,14 @@
+@import "_colors";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&display=swap");
+
+$heading-font: "Montserrat", sans-serif;
+$sub-heading-font: "Open Sans", sans-serif;
+$text-font: "Open Sans", sans-serif;
+
+$form-shadows: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+  rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+
+$padding: 1rem;
+$padding-input: 0.3rem;
